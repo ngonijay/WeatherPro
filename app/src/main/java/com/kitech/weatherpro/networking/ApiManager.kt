@@ -32,4 +32,7 @@ object ApiManager {
         .client(client)
         .addConverterFactory(GsonConverterFactory.create(gson))
         .build()
+
+    var weatherService: WeatherService = retrofit.create(WeatherService::class.java)
+
 }
