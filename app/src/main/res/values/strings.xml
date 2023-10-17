@@ -4,4 +4,8 @@
     <string name="title_home">Home</string>
     <string name="title_dashboard">Dashboard</string>
     <string name="title_notifications">Notifications</string>
+    <string name="humidity">Humidity</string>
+    <string name="_0">0</string>
+    <string name="precipitation">Precipitation</string>
+    <string name="wind">Wind</string>
 </resources>
